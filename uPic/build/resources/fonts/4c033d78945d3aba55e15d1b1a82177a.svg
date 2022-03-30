@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="User-Profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1338.000000, -30.000000)">
+            <g id="share-copy-2" transform="translate(1338.000000, 30.000000)">
+                <circle id="Oval-14" fill="#F5A623" cx="5" cy="5" r="5"></circle>
+                <g id="Group-5" stroke-width="1" transform="translate(2.000000, 2.000000)">
+                    <circle id="Oval-3" fill="#FFFFFF" cx="5" cy="1" r="1"></circle>
+                    <circle id="Oval-3" fill="#FFFFFF" cx="1" cy="3" r="1"></circle>
+                    <circle id="Oval-3" fill="#FFFFFF" cx="5" cy="5" r="1"></circle>
+                    <path d="M5,1 L1,3" id="Line" stroke="#FFFFFF" stroke-linecap="round"></path>
+                    <path d="M5,5 L1,3" id="Line" stroke="#FFFFFF" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
